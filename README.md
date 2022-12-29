@@ -45,4 +45,6 @@ the class have function:
   - delete - delete string frome start index to end index (we get the start index and end index) in our string and tell all the members that the UndoableStringBuilder has changed.
  - undo - we get the string without the last change and tell all the members that the UndoableStringBuilder has changed.
  
- 
+ # Test
+ in folder test we have a test that we write to test our code seccess  
+
