@@ -8,7 +8,7 @@ exercise in oop in java 01.
 
 # About the project
 we were ask to do this project the design patterns of a kind observer.  
-the project is here:  [oop-01](https://github.com/elroei1avraham/OOP-01].
+the project is here:  [oop-01](https://github.com/elroei1avraham/OOP-01).
 
 
 # About observer
