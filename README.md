@@ -46,5 +46,6 @@ the class have function:
  - undo - we get the string without the last change and tell all the members that the UndoableStringBuilder has changed.
  
  # Test
- in folder test we have a test that we write to test our code seccess  
+ In folder test we have a test that we write to test our code seccess. we try all kinds of function from the projet and check if the output is similar to what we want it to be.
+ all the test passed and its exactly the results that we expected to receive.
 
