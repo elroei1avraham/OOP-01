@@ -7,12 +7,12 @@ exercise in oop in java 01.
 
 
 # About the project
-we were ask to do this project the design patterns of a kind observer.  
+we were asked to do this project and using design patterns of a kind observer.  
 the project is here:  [oop-01](https://github.com/elroei1avraham/OOP-01).
 
 
 # About observer
-observer ia a design patterns that was a class/interface and the other class know immediately if they have a change.
+observer in a design patterns that was a class/interface and the other objects knows immediately if they have a change.
 in our exercise we have the class UndoableStringBuilder that we wrote in the previous exercise and now we have a class groupAdmin that have a members and we send them information about the UndoableStringBuilder class.
 the members get an information after they register to the list of members and immediately all the changes the UndoableStringBuilder passes.
 
